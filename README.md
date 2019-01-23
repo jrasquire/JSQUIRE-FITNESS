@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## ONLINE WEIGHT TRAINING AND MACRO COACHING
 
-You can use the [editor on GitHub](https://github.com/jrasquire/JSQUIRE-FITNESS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+IT HAS ALWAYS BEEN MY PASSION TO HELP PEOPLE BUT I DID NOT ALWAYS KNOW HOW I WAS GOING TO DO IT.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I KNOW NOW THAT MY NICHE IS ONLINE FITNESS COACHING.
+
+I PROVIDE 90 DAY AND 120 DAY CUSTOMIZED PLANS.
+
+EVERYONE IS DIFFERENT AND REQUIRES SPECIAL ATTENTION TO THEIR PLAN IN ORDER TO ACHIEVE THEIR GOALS
+
+IT WOULD BE MY PLEASUERE TO HELP CHANGE YOUR LIFE!
+YOU ARE THE ONE WHO IS GOING TO DO IT!
+I AM HERE TO HELP MAKE IT HAPPEN!
 
 ### Markdown
 
